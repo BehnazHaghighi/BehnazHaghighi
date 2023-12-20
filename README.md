@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Front-End Development for Internet Banking (Mellat Bank)](https://ebanking.bankmellat.ir/ebanking/#/)
 
-- 👨‍💻 All of my projects are available at [http://BehnazHaghighi.ir](http://BehnazHaghighi.ir)
+- 👨‍💻 All of my projects are available at [http://BehnazHaghighi.ir](http://www.BehnazHaghighi.ir)
 
 - 📫 How to reach me **Behnaz18093@gmail.com**
 
