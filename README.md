@@ -2,9 +2,10 @@
 <h3 align="center">Passionate Front-End & React Developer</h3>
 
 <div style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"
-        style="width: 200px; height: 200px; text-align: center;">
+    <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" 
+         style="width: 200px; height: 200px;">
 </div>
+
 
 <h3>👩‍💻 About Me :</h3>
 <p> As a Front-End Developer, I work well with others and enjoy making websites that are easy to use. I am good at
