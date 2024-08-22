@@ -1,10 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Behnaz Haghighi</h1>
 <h3 align="center">Passionate Front-End & React Developer</h3>
 
-<div style="text-align: center;">
+<div>
     <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" 
-         style="width: 200px; height: 200px;">
+         style="display: block; margin: auto; width: 200px; height: 200px;">
 </div>
+
 
 
 <h3>👩‍💻 About Me :</h3>
